@@ -1,8 +1,9 @@
+end
 def welcome
   # code #welcome here
   puts "Welcome to the Blackjack Table".
 end
-end
+
 
 def deal_card
   # code #deal_card here
