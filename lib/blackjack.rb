@@ -61,6 +61,12 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-# def runner
+def runner
   # code runner here
-#end
+  welcome
+  total = initial_round
+  while total <22
+    total = hit?
+  end
+  end_game
+end
